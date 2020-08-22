@@ -1,0 +1,86 @@
+{
+	"name": "Material Icons",
+	"id": "material-iconpack",
+	"description": "Material iconpack",
+	"version": "1.0.0",
+	"author": "NEONz Developer",
+	"type": "iconpack",
+	"icons": {
+		"ts": {
+			"icon": "./icons/typescript.svg"
+		},
+		"js": {
+			"icon": "./icons/javascript.svg"
+		},
+		"json": {
+			"icon": "./icons/json.svg"
+		},
+		"tsx": {
+			"icon": "./icons/tsx.lang.svg"
+		},
+		"jsx": {
+			"icon": "./icons/react.svg"
+		},
+		"md": {
+			"icon": "./icons/readme.svg"
+		},
+		"py": {
+			"icon": "./icons/python.svg"
+		},
+		"cpp": {
+			"icon": "./icons/cpp.svg"
+		},
+		"cs": {
+			"icon": "./icons/csharp.svg"
+		},
+		"go": {
+			"icon": "./icons/go.svg"
+		},
+		"php": {
+			"icon": "./icons/php.svg"
+		},
+		"rb": {
+			"icon": "./icons/ruby.svg"
+		},
+		"scss": {
+			"icon": "./icons/sass.svg"
+		},
+		"css": {
+			"icon": "./icons/css.svg"
+		},
+		"html": {
+			"icon": "./icons/html.svg"
+		},
+		"ejs": {
+			"icon": "./icons/ejs.svg"
+		},
+		"java": {
+			"icon": "./icons/java.svg"
+		},
+		"rs": {
+			"icon": "./icons/rust.svg"
+		},
+		"folder": {
+			"icon": "./icons/folder.svg",
+			"openedIcon": "./icons/folderopen.svg",
+			"type": "basicfolder"
+		},
+		"image": {
+			"icon": "./icons/image.svg",
+			"type": "basicimage"
+		},
+		"file": {
+			"icon": "./icons/file.svg",
+			"type": "basicfile"
+		},
+		"package.json": {
+			"icon": "./icons/json.svg",
+			"type": "filename"
+		},
+		"node_modules": {
+			"icon": "./icons/nodejs.svg",
+			"openedIcon": "./icons/nodejs.svg",
+			"type": "foldername"
+		}
+	}
+}
