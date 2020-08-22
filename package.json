@@ -22,7 +22,7 @@
 			"icon": "./icons/react.svg"
 		},
 		"md": {
-			"icon": "./icons/readme.svg"
+			"icon": "./icons/md.svg"
 		},
 		"py": {
 			"icon": "./icons/python.svg"
