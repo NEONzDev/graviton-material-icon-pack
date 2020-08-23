@@ -2,7 +2,7 @@
 Material Icon Pack for Graviton Code Editor.
 
 - Requeriments: 
-Graviton Minimium version is 2.0.98.
+Graviton Minimium version 2.0.98.
 
 
 
